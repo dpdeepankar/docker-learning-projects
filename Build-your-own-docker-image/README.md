@@ -1,5 +1,5 @@
 # Building your own docker image
-Often in enterpises the standard available images only won't suffice the requirement. Hence you may need to build one of your own.
+Often in enterpises the standard available images alone won't suffice the requirement. Hence you may need to build one of your own.
 
 Now to build your own image you often start with the base image. A base is the image that your image extends. It refers to the contents of the FROM instruction in the Dockerfile.
 
